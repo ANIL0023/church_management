@@ -80,7 +80,8 @@ If you have any questions, feel free to reach out:
 
 - **Maintainer**: [Rupesh Rai](https://github.com/rupeshrai05)  
 - **Email**: [rupesh050203@gmail.com]  
-
+- **contributor** : [anil kumar]
+- **Email**: [anilkumar564443@gmail.com]
 ---
 
 Feel free to customize this template further based on your repository's specific features or requirements. Let me know if you'd like to add or adjust anything! 😊
